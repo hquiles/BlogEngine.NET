@@ -1,13 +1,8 @@
-﻿#postnavigation {
-    display: none;
-}
-
 .navigation-posts {
     display: table;
     width: 100%;
     overflow: hidden;
     padding: 0;
-    display: none;
 
     a {
         text-decoration: none;
@@ -25,5 +20,8 @@
 
     > div.text-left {
         border-right: 1px solid #ddd;
+    }
+    @media screen and (max-width: 64rem) {
+        display: none;
     }
 }
