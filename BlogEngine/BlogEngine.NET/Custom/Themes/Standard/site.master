@@ -97,6 +97,7 @@
         </div>
         <script src="<%=Utils.RelativeWebRoot %>custom/themes/standard/src/js/bootstrap.min.js"></script>
         <script src="<%=Utils.RelativeWebRoot %>custom/themes/standard/src/js/custom.js"></script>
+        <script src="<%=Utils.RelativeWebRoot %>Scripts/reftagger/bible-tagger.js"></script>
     </form>
 </body>
 </html>
