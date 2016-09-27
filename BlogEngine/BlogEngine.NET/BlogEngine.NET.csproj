@@ -584,6 +584,7 @@
     <Content Include="Custom\Themes\Standard\src\css\font-awesome.min.css" />
     <Content Include="Custom\Themes\Standard\src\css\styles.min.css" />
     <Content Include="Custom\Themes\Standard\src\fonts\fontawesome-webfont.svg" />
+    <None Include="Custom\Themes\Standard\src\img\logo.png.original" />
     <Content Include="Custom\Themes\Standard\src\img\logo.png" />
     <Content Include="Custom\Themes\Standard\src\js\bootstrap.min.js" />
     <Content Include="Custom\Themes\Standard\src\js\custom.js" />
@@ -1527,6 +1528,7 @@
     <Content Include="Scripts\i18n\angular-locale_zh.js" />
     <Content Include="Scripts\i18n\angular-locale_zu-za.js" />
     <Content Include="Scripts\i18n\angular-locale_zu.js" />
+    <None Include="Properties\PublishProfiles\talktohector.com - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-2.1.4.intellisense.js" />
     <Content Include="Scripts\jquery-2.1.4.js" />
     <Content Include="Scripts\jquery-2.1.4.min.js" />
@@ -1716,7 +1718,9 @@
     <Content Include="App_Data\blogs\_new\datastore\widgets\be_WIDGET_ZONE.xml" />
     <Content Include="App_Data\blogs\_new\pingservices.xml" />
     <Content Include="App_Data\blogs\_new\posts\c3b491e5-59ac-4f6a-81e5-27e971b903ed.xml" />
-    <Content Include="App_Data\blogs\_new\rights.xml" />
+    <Content Include="App_Data\blogs\_new\rights.xml">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="App_Data\blogs\_new\roles.xml" />
     <Content Include="App_Data\blogs\_new\settings.xml">
       <SubType>Designer</SubType>
