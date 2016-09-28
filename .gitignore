@@ -194,3 +194,5 @@ BlogEngine/BlogEngine.NET/Web.Config
 BlogEngine/BlogEngine.NET/Web.Config
 *.old
 BlogEngine/BlogEngine.NET/App_Data/newsletter.xml
+BlogEngine/BlogEngine.NET/App_Data/logger.txt
+*.Config
