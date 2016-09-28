@@ -188,3 +188,9 @@ BlogEngine/.vs/
 BlogEngine/BlogEngine.NET/App_Data/datastore/extensions/*.xml
 *.Config
 BlogEngine/BlogEngine.NET/Web.Config
+BlogEngine/BlogEngine.v12.suo.old.doesnotwork
+*.new_notworking
+BlogEngine/BlogEngine.NET/Web.Config
+BlogEngine/BlogEngine.NET/Web.Config
+*.old
+BlogEngine/BlogEngine.NET/App_Data/newsletter.xml
