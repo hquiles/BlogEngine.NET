@@ -328,7 +328,7 @@
                 var attr = config.GetKey(0);
                 if (!string.IsNullOrEmpty(attr))
                 {
-                    throw new ProviderException(string.Format("Unrecognized attribute: {0}", attr));
+                    throw new ProviderException($"Unrecognized attribute: {attr}");
                 }
             }
         }
@@ -412,7 +412,7 @@
         /// </param>
         public override bool RoleExists(string roleName)
         {
-            if (Utils.StringIsNullOrWhitespace(roleName))
+            if (String.IsNullOrWhiteSpace(roleName))
             {
                 throw new ArgumentNullException("roleName");
             }
