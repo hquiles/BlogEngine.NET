@@ -796,6 +796,7 @@
     <Content Include="Scripts\Auto\02-jquery.cookie.js" />
     <Content Include="Scripts\Auto\04-jquery-jtemplates.js" />
     <Content Include="Scripts\Auto\05-json2.min.js" />
+    <Content Include="Scripts\Auto\blog - Copy.js" />
     <Content Include="Scripts\Auto\blog.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -1595,9 +1596,11 @@
     <Content Include="Scripts\syntaxhighlighter\scripts\shBrushSql.js" />
     <Content Include="Scripts\syntaxhighlighter\scripts\shBrushVb.js" />
     <Content Include="Scripts\syntaxhighlighter\scripts\shBrushXml.js" />
+    <Content Include="Scripts\syntaxhighlighter\scripts\shCore - Copy.js" />
     <Content Include="Scripts\syntaxhighlighter\scripts\shCore.js" />
     <Content Include="Scripts\syntaxhighlighter\scripts\shLegacy.js" />
     <Content Include="Scripts\syntaxhighlighter\scripts\syntaxhighlighter.js" />
+    <Content Include="Scripts\syntaxhighlighter\scripts\XRegExp - Copy.js" />
     <Content Include="Scripts\syntaxhighlighter\scripts\XRegExp.js" />
     <Content Include="Scripts\syntaxhighlighter\shActivator.js" />
     <Content Include="Scripts\syntaxhighlighter\styles\shCore.css" />

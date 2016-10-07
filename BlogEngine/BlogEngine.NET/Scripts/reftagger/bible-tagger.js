@@ -1,10 +1,1 @@
-﻿	var refTagger = {
-	    settings: {
-	        bibleVersion: "ESV"			
-	    }
-	};
-(function(d, t) {
-    var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-    g.src = "//api.reftagger.com/v2/RefTagger.js";
-    s.parentNode.insertBefore(g, s);
-}(document, "script"));
+﻿var refTagger = { settings: { bibleVersion: "ESV" } }; !function (a, b) { var c = a.createElement(b), d = a.getElementsByTagName(b)[0]; c.src = "//api.reftagger.com/v2/RefTagger.js", d.parentNode.insertBefore(c, d) }(document, "script");
